@@ -25,20 +25,20 @@ $83,128,441
 
 <br/>
 
-Residuals:
-      Min        1Q    Median        3Q       Max 
- -3738764   -643098   -218810    266749 141234604 
+Residuals: <br/>
+      Min        1Q    Median        3Q       Max <br/>
+ -3738764   -643098   -218810    266749 141234604 <br/>
 
-Coefficients:
-                   Estimate Std. Error t value Pr(>|t|)    
-(Intercept)       7.173e+05  1.888e+05   3.799 0.000147 ***
-room_qty          9.586e+05  1.017e+05   9.424  < 2e-16 ***
-deposit          -1.676e-02  1.151e-03 -14.564  < 2e-16 ***
-has_elevatorTRUE  6.401e+05  1.340e+05   4.777 1.83e-06 ***
-property_age      6.884e+03  7.356e+03   0.936 0.349402 
+Coefficients: <br/>
+                   Estimate  Std. Error t value Pr(>|t|)    <br/>
+(Intercept)       7.173e+05  1.888e+05   3.799 0.000147 *** <br/>
+room_qty          9.586e+05  1.017e+05   9.424  < 2e-16 *** <br/>
+deposit          -1.676e-02  1.151e-03 -14.564  < 2e-16 *** <br/>
+has_elevatorTRUE  6.401e+05  1.340e+05   4.777 1.83e-06 *** <br/>
+property_age      6.884e+03  7.356e+03   0.936 0.349402  <br/>
 
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 <br/>
 
 Residual standard error: 3718000 on 4908 degrees of freedom
   (17 observations deleted due to missingness)
